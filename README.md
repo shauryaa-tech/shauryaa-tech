@@ -1,4 +1,4 @@
-![logo](https://github.com/shauryaa-tech/shauryaa-tech/blob/main/Github%20banner.jpg)
+![logo](https://github.com/shauryaa-tech/shauryaa-tech/blob/main/Github%20banner.png.png)
 <h1 align="center">Hi 👋, I'm Shaurya Pratap Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
